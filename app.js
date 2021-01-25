@@ -1,1 +1,1 @@
-console.log("Hello Jufis!\n");
+console.log("Hello World!\n");
